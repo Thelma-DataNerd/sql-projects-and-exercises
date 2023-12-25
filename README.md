@@ -1,4 +1,5 @@
-## "Addressing the Maji Ndogo water crisis involved leveraging SQL on a 60,000-record database.
+# Addressing Maji Ndogo water crisis 
+This project involved leveraging SQL on a 60,000-record database.
 Through SQL functions and advanced tools, insights were extracted, 
 and the crisis's scale was unveiled via aggregation. 
 Integration of diverse data sources contributed to actionable insights. 
