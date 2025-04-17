@@ -4,7 +4,7 @@
 - [Database Normalization](#database-normalization)
 - [SQL Operation](#sql-operation)
 - [Addressing Maji Ndogo water crisis](#addressing-maji-ndogo-water-crisis)
-- [Olympic Event Analysis](olympic-event-analysis)
+- [Olympic Event Analysis](#olympic-event-analysis)
 
 ### Overview  
 This space is dedicated to showcasing my hands-on experience with sql through a collection of queries (basic to advanced queries), case-based exercises, data exploration projects, and practice problems.
